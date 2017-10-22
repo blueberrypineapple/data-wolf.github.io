@@ -1,0 +1,8 @@
+>>> doom = "videogame"
+>>> area = 14.0
+>>> if doom == "fruit":
+...     print("an apple!")
+... else:
+...     print("not sure")
+... 
+not sure

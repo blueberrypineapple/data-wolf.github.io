@@ -1,0 +1,8 @@
+>>> True == False
+False
+>>> 2 == 5
+False
+>>> 'no' == 'no'
+True
+>>> False == 1
+False

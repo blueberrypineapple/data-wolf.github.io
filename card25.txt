@@ -1,0 +1,6 @@
+>>> x = [1,9,5,17,2,3]
+>>> y = [20,2,24,1,2,4]
+>>> import matplotlib.pyplot as plt
+>>> plt.scatter(x,y)
+<matplotlib.collections.PathCollection object at 0x10a63b470>
+>>> plt.show()

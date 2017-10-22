@@ -1,0 +1,4 @@
+>>> doom = "videogame"
+>>> doom_up = doom.upper()
+>>> print(doom.count('o'))
+1

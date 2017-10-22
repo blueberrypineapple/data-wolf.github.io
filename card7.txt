@@ -1,0 +1,3 @@
+>>> list_of_lists = [["a", "b"],["c"],["d","e"]]
+>>> list_of_lists[2][1]
+'e'

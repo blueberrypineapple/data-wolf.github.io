@@ -1,0 +1,3 @@
+>>> earth = {'usa:washington','russia:moscow','china:beijing'}
+>>> print(earth)
+{'russia:moscow', 'usa:washington', 'china:beijing'}

@@ -1,0 +1,10 @@
+>>> doom = "game"
+>>> area = 100.0
+>>> if doom == "game":
+...     print("Doom!")
+... 
+Doom!
+>>> if area == 100.0:
+...     print("gamer room!")
+... 
+gamer room!

@@ -1,0 +1,26 @@
+>>> import pandas as pd
+>>> lang = pd.read_csv('lang.csv', index_col = 0)
+>>> for lab, row in lang.iterrows() :
+...     print(lab)
+...     print(row)
+... 
+0
+country         us
+english       True
+population     323
+Name: 0, dtype: object
+1
+country       japan
+english       False
+population      127
+Name: 1, dtype: object
+2
+country        peru
+english       False
+population      131
+Name: 2, dtype: object
+3
+country       chile
+english       False
+population       17
+Name: 3, dtype: object

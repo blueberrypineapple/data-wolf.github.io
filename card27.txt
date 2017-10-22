@@ -1,0 +1,5 @@
+>>> countries = ['usa', 'russia', 'china']
+>>> capitals = ['washington', 'moscow', 'beijing']
+>>> ind_chi = countries.index('china')
+>>> print(capitals[ind_chi])
+beijing

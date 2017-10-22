@@ -1,0 +1,14 @@
+>>> music = 10
+>>> while music > 1:
+...     print('jamming')
+...     music = music -1
+... 
+jamming
+jamming
+jamming
+jamming
+jamming
+jamming
+jamming
+jamming
+jamming

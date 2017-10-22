@@ -1,0 +1,12 @@
+>>> names = ["us","japan","peru","chile"]
+>>> eng =  [True, False, False, False] 
+>>> ppl = [809,988,101,77]
+>>> import pandas as pd
+>>> my_dict = {'country':names,'english':eng,'population':ppl}
+>>> lang = pd.DataFrame(my_dict)
+>>> print(lang)
+  country  english  population
+0      us     True         323
+1   japan    False         127
+2    peru    False         131
+3   chile    False          17

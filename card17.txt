@@ -1,0 +1,9 @@
+>>> doom = "videogame"
+>>> if doom == "fruit":
+...     print("an apple!")
+... elif doom == "videogame":
+...     print("Game on!")
+... else:
+...     print("not sure.")
+... 
+Game on!

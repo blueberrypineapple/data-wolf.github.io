@@ -1,0 +1,8 @@
+>>> import pandas as pd
+>>> lang = pd.read_csv('lang.csv')
+>>> print(lang)
+  country  english  population
+0      us     True         323
+1   japan    False         127
+2    peru    False         131
+3   chile    False          17

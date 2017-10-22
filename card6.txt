@@ -1,0 +1,7 @@
+>>> colors = ["blue", "red", "green"]
+>>> old_colors = colors[0:2]
+>>> new_colors = colors[1:]
+>>> print(old_colors)
+['blue', 'red']
+>>> print(new_colors)
+['red', 'green']

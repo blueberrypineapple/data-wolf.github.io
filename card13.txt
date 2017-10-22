@@ -1,0 +1,5 @@
+>>> coins = [.01, .05, .10, .25, 1.00]
+>>> print(coins.index(.10))
+2
+>>> print(coins.count(.01))
+1

@@ -1,0 +1,12 @@
+>>> row_labels = ['US', 'JAP', 'PE', 'CH']
+>>> import pandas as pd
+>>> lang = pd.read_csv('lang.csv')
+>>> lang.index = [row_labels]
+>>> ppl = lang['population']
+>>> big_ppl = ppl > 100
+>>> huge_ppl = lang[big_ppl]
+>>> print(huge_ppl)
+    country  english  population
+US       us     True         323
+JAP   japan    False         127
+PE     peru    False         131

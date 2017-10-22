@@ -1,0 +1,6 @@
+>>> bills = [1, 5, 10, 20, 50, 100]
+>>> import numpy as np
+>>> print(np.mean(np_bills))
+31.0
+>>> print(np.median(np_bills))
+15.0

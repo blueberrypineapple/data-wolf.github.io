@@ -1,0 +1,14 @@
+>>> world = {'spain':'madrid', 'france':'paris', 
+... 'germany':'bonn', 'norway':'oslo', 
+... 'italy':'rome', 'poland':'warsaw', 
+... 'australia':'vienna' }
+>>> for key, value in world.items():
+...     print("the capital of " + str(key) + " is " + str(value))
+... 
+the capital of spain is madrid
+the capital of france is paris
+the capital of germany is bonn
+the capital of norway is oslo
+the capital of italy is rome
+the capital of poland is warsaw
+the capital of australia is vienna

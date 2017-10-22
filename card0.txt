@@ -1,0 +1,5 @@
+def flashcard(my_num):
+	import requests
+	link = 'http://datawolf.us/card'+ str(my_num) +'.txt'
+	f = requests.get(link)
+	print(f.text)

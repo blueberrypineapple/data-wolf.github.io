@@ -1,0 +1,11 @@
+>>> row_labels = ['US', 'JAP', 'PE', 'CH']
+>>> import pandas as pd
+>>> lang = pd.read_csv('lang.csv', index_col = 0)
+>>> lang.index = [row_labels]
+>>> ppl = lang['population']
+>>> print(ppl)
+US     323
+JAP    127
+PE     131
+CH      17
+Name: population, dtype: int64

@@ -1,0 +1,11 @@
+>>> house = [["pool", 191.25], 
+...          ["game room", 18.0], 
+...          ["music room", 20.0],  
+...          ["lounge", 19.50]]
+>>> for i in house:
+...     print("The " + str(i[0]) + " is " + str(i[1]))
+... 
+The pool is 191.25
+The game room is 18.0
+The music room is 20.0
+The lounge is 19.5

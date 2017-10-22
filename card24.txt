@@ -1,0 +1,6 @@
+>>> x = [1,9,5,17]
+>>> y = [20,2,24,1]
+>>> import matplotlib.pyplot as plt
+>>> plt.plot(x,y)
+[<matplotlib.lines.Line2D object at 0x10a7bba20>]
+>>> plt.show()

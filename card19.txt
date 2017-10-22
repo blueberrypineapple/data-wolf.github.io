@@ -1,0 +1,6 @@
+>>> bills = [1, 5, 10, 20, 50, 100, 500]
+>>> import numpy as np
+>>> np_bills = np.array(bills)
+>>> new_currency = np_bills * 26
+>>> print(new_currency)
+[   26   130   260   520  1300  2600 13000]

@@ -1,0 +1,13 @@
+>>> row_labels = ['US', 'JAP', 'PE', 'CH']
+>>> import pandas as pd
+>>> lang = pd.read_csv('lang.csv')
+>>> lang.index = [row_labels]
+>>> print(lang.loc['JAP'])
+country       japan
+english       False
+population      127
+Name: JAP, dtype: object
+>>> print(lang.loc[['PE','CH']])
+   country  english  population
+PE    peru    False         131
+CH   chile    False          17

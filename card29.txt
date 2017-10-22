@@ -1,0 +1,5 @@
+>>> earth = {'usa':'washington','russia':'moscow','china':'beijing'}
+>>> print(earth.keys())
+dict_keys(['usa', 'russia', 'china'])
+>>> print(earth['china'])
+beijing

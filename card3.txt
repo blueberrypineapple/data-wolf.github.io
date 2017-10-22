@@ -1,0 +1,5 @@
+>>> a="This list"
+>>> b=" demonstrates concatenation."
+>>> my_list=a+b
+>>> print(my_list)
+This list demonstrates concatenation.

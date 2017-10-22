@@ -1,0 +1,6 @@
+>>> earth = {'usa':'washingtown','russia':'moscow','china':'beijing'}
+>>> earth['usa'] = 'washington'
+>>> earth.pop('russia')
+'moscow'
+>>> print(earth)
+{'usa': 'washington', 'china': 'beijing'}

@@ -1,0 +1,4 @@
+>>> movie = 10
+>>> popcorn = 75
+>>> print("Movie costs " + str(movie) +" and popcorn costs " + str(popcorn))
+Movie costs 10 and popcorn costs 75

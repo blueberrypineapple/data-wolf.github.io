@@ -1,0 +1,20 @@
+>>> import pandas as pd
+>>> lang = pd.read_csv('lang.csv')
+>>> print(lang['country'])
+0       us
+1    japan
+2     peru
+3    chile
+Name: country, dtype: object
+>>> print(lang[['country']])
+  country
+0      us
+1   japan
+2    peru
+3   chile
+>>> print(lang[['country','population']])
+  country  population
+0      us         323
+1   japan         127
+2    peru         131
+3   chile          17

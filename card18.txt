@@ -1,0 +1,5 @@
+>>> bills = [1, 5, 10, 20, 50, 100, 500]
+>>> import numpy as np
+>>> np_bills = np.array(bills)
+>>> print(type(np_bills))
+<class 'numpy.ndarray'>

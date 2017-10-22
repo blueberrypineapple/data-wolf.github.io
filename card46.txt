@@ -1,0 +1,23 @@
+>>> np_bills = np.array([20, 50, 10, 5])
+>>> np_coins = np.array([[ 25, 10],[ 1, 5]])
+>>> for i in np_bills:
+...     print(i)
+... 
+20
+50
+10
+5
+>>> i = 0
+>>> for i in np.nditer(np_coins):
+...     if i > 0:
+...             print(i)
+...             i -1
+... 
+25
+24
+10
+9
+1
+0
+5
+4

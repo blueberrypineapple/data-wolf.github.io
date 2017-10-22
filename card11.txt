@@ -1,0 +1,6 @@
+>>> first=[1.0,3.0,5.0]
+>>> second=[2.0,4.0]
+>>> full = first + second
+>>> full_sorted = sorted(full, reverse=True)
+>>> print(full_sorted)
+[5.0, 4.0, 3.0, 2.0, 1.0]

@@ -1,0 +1,7 @@
+>>> help(max)
+
+>>> help(iter)
+
+>>> help(type)
+
+>>> help(len)

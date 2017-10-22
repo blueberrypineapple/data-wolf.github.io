@@ -1,0 +1,4 @@
+>>> movie = 10
+>>> popcorn = 25
+>>> movie + popcorn
+35
