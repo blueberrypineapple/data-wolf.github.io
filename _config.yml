@@ -61,7 +61,7 @@ author:
   twitter: _datawolf   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: pybarrios  # eg. daattali
+  #linkedin: yns  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
@@ -82,7 +82,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
