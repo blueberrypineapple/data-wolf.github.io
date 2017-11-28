@@ -46,7 +46,7 @@ November 28th, 2017
 # Introduction <a name="introduction"></a>
 
 ### Python (1991)
-Python rules for Data Science or anything else for that matter. Python is fast, powerful and beast of all, Python has a giant eco-system extending it's reach far beyond popular libraries such as Numpy, Pandas and Jupyter Notebooks, in fact, the Python community is growing at an swift rate showing no signs of slowing down. 
+Python rules for Data Science or anything else for that matter. Python is fast, powerful and beast of all, Python has a giant eco-system extending it's reach far beyond popular libraries such as Numpy, Pandas and Jupyter Notebooks, in fact, the Python community is growing at a swift rate, showing no signs of slowing down. 
 
 BONUS:
 Be sure to check out http://pythontutor.com from time to time for a behind the scenes look at how python works!
