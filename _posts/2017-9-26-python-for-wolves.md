@@ -4,23 +4,70 @@ title: Python for Data Wolves
 subtitle: Learn, use and re-use
 ---
 ![jpg](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Optimized-Data_Wolf.jpg?raw=true)
-## Python (1991)
-The first three reasons to use Python for Data Science: NumPy, Pandas and Jupyter Notebooks. The sheer power of these three libraries alone makes them an invaluable resource for the aspiring data scientist. Python has a healthy eco-system extending it's reach far beyond Numpy, Pandas and Jupyter Notebooks, in fact, the Python community is growing at a swift rate showing no signs of slowing down. MongoDB has PyMongo for example, not to mention Matplotlib, SciPy and many more... Be sure to check out [Python Tutor](http://pythontutor.com) for a great online behind the scenes look at python.
+Jonthan Barrios | 
+https://datawolf.us | 
+November 28th, 2017
+<br>
+[Looking of the Python for Data Science Flashcards?](https://datawolf.us/2017-10-10-data-science-flashcards/)<br><br>
 
-## Variables 
-* Numeric: intergers, floats and complex
-* Sequence: list, tuples and range
-* Binary: byte and byte array
-* True/False: bool
-* Text:  string
+# Table of contents
+1. [Introduction](#introduction)
+2. [Variables](#variables)
+3. [Objects](#objects)
+4. [Loops](#loops)
+    5. [For Loops](#for_loops)
+    6. [While Loops](#while_loops)
+    7. [If](#if)
+    8. [Else](#else)
+    9. [Elif](#elif)
+10. [Functions](#functions)
+11. [String Operations](#string_operations)
+    1. [Change case](#change_case)
+    2. [Change order](#change_order)
+    3. [Concatenation](#concatenation)
+    4. [Strip](#strip)
+    5. [Split](#split)
+    6. [Slice](#slice)
+    8. [Length or len](#length)
+    9. [Count](#count)
+    7. [Starts & Ends with](#starts_ends_with)
+    8. [Substring Testing](#substring_testing)
+12. [List Functions](#list_functions)
+13. [Tuples](#tuples)
+14. [Dictionaries & Keys](#dictionaries_keys)
 
 
-## Objects
+<br>
+<br>
+<br>
+
+
+
+# Introduction <a name="introduction"></a>
+
+### Python (1991)
+Python rules for Data Science or anything else for that matter. Python is fast, powerful and beast of all, Python has a giant eco-system extending it's reach far beyond popular libraries such as Numpy, Pandas and Jupyter Notebooks, in fact, the Python community is growing at an swift rate showing no signs of slowing down. 
+
+BONUS:
+Be sure to check out http://pythontutor.com from time to time for a behind the scenes look at how python works!
+
+
+
+
+## Variables <a name="variables"></a>
+* Numeric: intergers, floats and complex.
+* Sequence: list, tuples and range.
+* Binary: byte and byte array.
+* True/False: bool.
+* Text:  string.
+
+
+## Objects<a name="objects"></a>
 Everything in Python is an Object. Objects hold data and can have actions associted with them like lists.
 
-## Loops
+## Loops<a name="loops"></a>
 
-### For Loops
+### For Loops<a name="for_loops"></a>
 Here is a for loop using range. 0 is inclusive and 6 is exclusive, so Python prints 0-5 and not 0-6.
 
 
@@ -80,7 +127,7 @@ for i in range(0,100,5):
     95
 
 
-### While Loops
+### While Loops<a name="while_loops"></a>
 
 
 ```python
@@ -104,7 +151,7 @@ while i<12:
     11
 
 
-### If
+### If<a name="if"></a>
 
 
 ```python
@@ -116,7 +163,7 @@ if i>2:
     3
 
 
-### Else
+### Else<a name="else"></a>
 
 
 ```python
@@ -130,7 +177,7 @@ else:
     Hi.
 
 
-### If, Elif and Else
+### If, Elif and Else<a name="elif"></a>
 First you have an if statement.
 Then you have if then else.
 Now you can have ***if* ** in front and ** *else* ** at the very end and as 
@@ -178,7 +225,7 @@ else:
     Greater than two.
 
 
-## Functions
+## Functions<a name="functions"></a>
 Define, name and input variables if any.
 Add conditions for the Function to run when called.
 
@@ -186,7 +233,6 @@ Add conditions for the Function to run when called.
 ```python
 def x_plus_y(x,y):
     print(x+y)
-
 ```
 
 
@@ -218,35 +264,26 @@ x_plus_y('You super ','freak dancer!')
 
 
 ```python
-#You can't however mix :(
+#You can't however 
+mix :(
 x_plus_y("you",872)
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    TypeError                                 Traceback (most recent call last)
-
-    <ipython-input-86-30edba64e9c7> in <module>()
-          1 #You can't however mix :(
-    ----> 2 x_plus_y("you",872)
-    
-
-    <ipython-input-82-426d83101ffd> in x_plus_y(x, y)
-          1 def x_plus_y(x,y):
-    ----> 2     print(x+y)
-    
-
-    TypeError: must be str, not int
+      File "<ipython-input-97-99c15a110c13>", line 3
+        x_plus_y("you",872)
+                           ^
+    SyntaxError: unexpected EOF while parsing
 
 
-### See how cool python is!
+
+### Do you see how cool python is?
 It just tells you. You can learn much from errors, stay crispy.
 #### TypeError: must be str, not int
 
-# Basic String Operatioms
+# String Operations <a name="string_operations"></a>
 
-## Change case
+### Change case<a name="change_case"></a>
 
 
 ```python
@@ -273,10 +310,6 @@ word
 
 
 
-### In reverse order
-Using .lower()
-
-
 
 ```python
 word = "ABSQUATULATE"
@@ -290,7 +323,23 @@ word.lower()
 
 
 
-## Concatenation
+### Change order<a name="change_order"></a>
+
+Reverse the order by using [::-1]
+
+
+```python
+word[::-1]
+```
+
+
+
+
+    'ETALUTAUQSBA'
+
+
+
+### Concatenation<a name="concatenation"></a>
 
 
 ```python
@@ -306,29 +355,29 @@ word.lower()
 
 
 ```python
-'Donkey'+'Bird'
+'Donkey'+'Friend'
 ```
 
 
 
 
-    'DonkeyBird'
+    'DonkeyFriend'
 
 
 
 
 ```python
-'Donkey'+' '+'Bird'
+'Donkey'+' '+'Friend'
 ```
 
 
 
 
-    'Donkey Bird'
+    'Donkey Friend'
 
 
 
-## Replication
+## Replication<a name="replication"></a>
 
 
 ```python
@@ -345,7 +394,7 @@ word.lower()
 
 ```python
 #This won't work
-'Donkey'*'Bird'
+'Donkey'*'Friend'
 #How can you multiply words? (you can but its just not automatic)
 ```
 
@@ -354,16 +403,16 @@ word.lower()
 
     TypeError                                 Traceback (most recent call last)
 
-    <ipython-input-111-668b01e7b100> in <module>()
+    <ipython-input-58-53ce2f29c383> in <module>()
           1 #This won't work
-    ----> 2 'Donkey'*'Bird'
+    ----> 2 'Donkey'*'Friend'
           3 #How can you multiply words? (you can but its just not automatic)
 
 
     TypeError: can't multiply sequence by non-int of type 'str'
 
 
-## Strip
+## Strip<a name="strip"></a>
 
 
 ```python
@@ -397,7 +446,7 @@ stink.strip('!')
 
 
 
-## Split
+## Split<a name="split"></a>
 
 
 ```python
@@ -421,7 +470,7 @@ s.split(' ')
 
 
 
-## Slicing
+## Slicing<a name="slice"></a>
 
 
 ```python
@@ -514,27 +563,27 @@ word[::-1]
 
 
 
-## Length or len
+## Length or len<a name="length"></a>
 
 
 ```python
 print(len(word))
 ```
 
-    5
+    12
 
 
-## Count
+## Count<a name="count"></a>
 
 
 ```python
 print(word.count("l"))
 ```
 
-    2
+    0
 
 
-## Starts and Ends with
+## Starts and Ends with<a name="starts_ends_with"></a>
 
 
 ```python
@@ -551,7 +600,7 @@ print(greeting.endswith("a bang"))
     False
 
 
-## Substring Testing
+## Substring Testing<a name="substring_testing"></a>
 
 
 ```python
@@ -561,7 +610,7 @@ word.find('el')
 
 
 
-    1
+    -1
 
 
 
@@ -596,7 +645,7 @@ greeting.find(s,8,11)
 
 #### Be sure to check the documentation whenever you wanna manipulate strings in some particular fashion. There are many, many ways.
 
-## Common List Functions
+## List Functions <a name="list_functions"></a>
 * Store data
 * Iterate using loops
 * Lists are mutable
@@ -616,7 +665,7 @@ zlist
 
 
 
-### Append
+### Append<a name="append"></a>
 
 
 ```python
@@ -633,7 +682,7 @@ zlist
 
 
 
-### Pop
+### Pop<a name="pop"></a>
 
 
 ```python
@@ -649,7 +698,7 @@ zlist.pop(3)
 
 
 
-### Indexing
+### Indexing<a name="indexing"></a>
 
 
 ```python
@@ -663,7 +712,7 @@ zlist[0:3]
 
 
 
-### Remove
+### Remove<a name="remove"></a>
 
 
 ```python
@@ -678,7 +727,7 @@ print(zlist)
     [11, 22]
 
 
-### Extend
+### Extend<a name="extend"></a>
 
 
 ```python
@@ -699,13 +748,7 @@ zlist1
 
 
 
-<br><br>
-
-
-
-# First lets understand zip
-
-### Then: Zip it. Zip it good! 
+### Zip<a name="zip"></a>
 
 
 ```python
@@ -762,8 +805,9 @@ for a,b in newList:
     77
 
 
-## Tuples
-Unlike Lists, tuples are immutable. You can trust that tuples never change and they can take strings, intergers, floats and even lists.
+## Tuples<a name="tuples"></a>
+Unlike Lists, Tuples have a pungent odor. Just kidding. Tuples are immutable unlike Lists :)
+You can trust that Tuples never change and they can take strings, intergers, floats and even lists.
 
 
 ```python
@@ -804,21 +848,22 @@ print(count)
     3
 
 
-## Dictionaries and Keys
+## Dictionaries and Keys<a name="dictionaries_keys"></a>
 Each key is separated from its value by a colon (:), the items are separated by commas, and the whole thing is enclosed in curly braces. An empty dictionary without any items is written with just two curly braces, like this: {}.
 
 Keys are unique within a dictionary while values may not be. The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
 
 
 ```python
-dict = {'Name': 'Kiley', 'Age': 7, 'Class': 'First'}
+dict = {'Name': 'Kilotha', 'Age': 7, 'Class': 'First'}
 
 print("dict['Name']: ", dict['Name'])
 print("dict['Age']: ", dict['Age'])
-
-
-    dict['Name']:  Kiley
-    dict['Age']:  7
 ```
+
+    dict['Name']:  Kilotha
+    dict['Age']:  7
+
+
 <br>
 
