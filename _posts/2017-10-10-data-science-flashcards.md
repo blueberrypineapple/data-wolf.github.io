@@ -9,10 +9,10 @@ Aspiring Data Scientists can learn Python [the hard way](https://learnpythontheh
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
     data-key="pk_test_3ODsMySDFa1qxcCZcLLco81h"
-    data-amount="999"
+    data-amount="2999"
     data-name="Data Wolf"
     data-description="Widget"
-    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+    data-image="https://datawolf.us/img/ava-icon.png"
     data-locale="auto"
     data-zip-code="true">
   </script>
