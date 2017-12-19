@@ -8,7 +8,7 @@ Aspiring Data Scientists can learn Python [the hard way](https://learnpythontheh
   <form action="/your-server-side-code" method="POST">
   <script
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-    data-key="pk_test_3ODsMySDFa1qxcCZcLLco81h"
+    data-key="pk_live_lPvrxmh7BhJ17DMzBjMNbMrI"
     data-amount="2999"
     data-name="Data Wolf"
     data-description="Widget"
