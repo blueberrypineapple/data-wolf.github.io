@@ -17,7 +17,7 @@ Aspiring Data Scientists can learn Python [the hard way](https://learnpythontheh
     data-zip-code="true">
   </script>
 </form>
-  
+</center>  
 
 ![jpg](https://pbs.twimg.com/media/DNQpxAMX4AAJru_.jpg)
 
