@@ -59,5 +59,5 @@ flashcard(3)
 
 Etc...<br>
 
-This project is still in progress, check back in 2018.
+Thanks checkig out the repo! This project is still in progress so please check back in 2018.
 
