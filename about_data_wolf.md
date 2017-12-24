@@ -61,5 +61,5 @@ Etc...<br>
 
 Thanks for checking out Data Wolf Data Science Flashcards! 
 This project is still in progress so please check back in 2018!
-Keel learning that Machine Learning...
+Keep learning that Machine Learning...
 
