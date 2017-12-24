@@ -59,5 +59,7 @@ flashcard(3)
 
 Etc...<br>
 
-Thanks checkig out the repo! This project is still in progress so please check back in 2018.
+Thanks for checking out Data Wolf Data Science Flashcards! 
+This project is still in progress so please check back in 2018!
+Keel learning that Machine Learning...
 
