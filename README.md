@@ -1,5 +1,18 @@
 # datawolf.us
 Data Science Flash Cards
-![alt text](https://github.com/data-wolf/data-wolf.github.io/blob/master/data_f%23@$19g_wolf.png?raw=true "DATA_WOLF")
 
+## Quickstart
+```
+def flashcard(my_num):
+  import requests
+  link - 'https://datawolf.us/card'+ str(my_num) +'.txt'
+  f = requests.get(link)
+  print(f.text)
+```
 
+To get the answers directly from the command line, type:
+```
+flashcard(1)
+```
+
+This project is still in progress, check back in 2018.
