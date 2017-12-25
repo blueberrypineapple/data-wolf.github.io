@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Data Wolf
-subtitle: A Data Science and Machine Learning Flashcards
+subtitle: A Data Science and Machine Learning Blog
 ---
 
 # Data Science Flashcards
