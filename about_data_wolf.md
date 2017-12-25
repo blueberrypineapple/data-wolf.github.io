@@ -3,9 +3,11 @@ layout: page
 title: About Data Wolf
 subtitle: A Data Science and Machine Learning virtual wolf
 ---
-#   Data Science Flash Cards
+# Data Science Flashcards
+
 ## Quickstart
 
+Write this Python 3 function:
 ```python
 def flashcard(my_num):
         import requests
@@ -14,6 +16,7 @@ def flashcard(my_num):
         print(f.text)
 ```
 
+Call it followed by your card number. For single digits don't use 0, ie. 1 NOT 01.
 
 ```python
 flashcard(1)
@@ -59,7 +62,4 @@ flashcard(3)
 
 Etc...<br>
 
-Thanks for checking out Data Wolf Data Science Flashcards! 
-This project is still in progress so please check back in 2018!
-Keep learning that Machine Learning...
-
+This project is still in progress, check back in 2018.
