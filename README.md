@@ -11,7 +11,7 @@ def flashcard(my_num):
         print(f.text)
 ```
 
-Call it followd by your card number. For single digits don't use 0, ie. 1 NOT 01.
+Call it followed by your card number. For single digits don't use 0, ie. 1 NOT 01.
 
 ```python
 flashcard(1)
