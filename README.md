@@ -1,5 +1,5 @@
 # Data Science Flashcards
-Data Wolf Flashcards are made from MOO sized business cards and will be for sale soon. Free versions are available on [Data Wolf Instagram](https://www.instagram.com/datawolf.us/). If you would like to learn with paper but money is an obstacle, send me an email and I will send you a zip file which you can print yourself or get printed at school, local library or with the help of a friends or family member. The DIY route: Wite them on 3X5 or 4X6 cards will not only give you the best bang for your buck but you will be a better Data Scientist for it. I made these in Photoshop and it helped me a great deal.
+Data Wolf Flashcards are made from MOO sized business cards and will be for sale soon. Free versions are available on [Data Wolf Instagram](https://www.instagram.com/datawolf.us/). If you would like to learn with paper but money is an obstacle, send me an email and I will send you a zip file which you can print yourself or get printed at school, local library or with the help of a friends or family member. The DIY route: Writting each Data Science flashcard by hand on 3X5 or 4X6 cards will not only give you the best bang for your buck but you will be a better Data Scientist for it! I made these in Photoshop and it helped me a great deal.
 
 ## Getting Started:
 1. Get paper flashcards!
