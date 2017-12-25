@@ -1,15 +1,18 @@
 # Data Science Flashcards
-Data Wolf Flashcards are made from MOO sized business cards and will be for sale soon. Free versions are available on [Data Wolf Instagram](https://www.instagram.com/datawolf.us/). If you would like to learn with paper but money is an obstacle, send me an email and I will send you a zip file which you can print yourself or get printed at school, local library or with the help of a friends or family member. The DIY route: Writting each Data Science flashcard by hand on 3X5 or 4X6 cards will not only give you the best bang for your buck but you will be a better Data Scientist for it! I made these in Photoshop and it helped me a great deal.
+Data Wolf presents: [Data Science Flashcards!](https://datawolf.us/2017-10-10-data-science-flashcards/) I made these while taking [UC San Diego's DSE200x](https://www.edx.org/micromasters/data-science) course on edX and working with my favorite online bootcamp, DataCamp! For DataCamp I took [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) and [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science). The paper flashcards are made from MOO busniess cards and will be for sale soon while the free version will be made available on Instagram. If you still want to learn using paper flashcards and money is an obstacle, send me an email and I will send you a file so you can have them printed or you can print them at home, school, local library or with the help of a friend. The Hardcore DIY option: Hand writting these flashcards onto 3X5 or 4X6 is highly reccomended, here is why:
+
+1. I made these in Photoshop and while it took a while, I have become a  much better programmer for it.
+2. Once you really have these down, use them as a gift to get a friend or family member into Python.
+3. After you given them away, you can still quiz yourself on Instagram to make sure you still remember!
 
 ## Getting Started:
-1. Get paper flashcards: MOO $29(coming soon) or DIY $0(recommended)
-2. Go green with [Data Wolf Instagram](https://www.instagram.com/datawolf.us/): Free
-3. Follow Quickstart instructions below.
 
-## Quickstart
+1. Get paper flashcards or go to [Data Wolf Instagram](https://www.instagram.com/datawolf.us/).
+2. Try to solve them!
 
-1. Write this Python 3 function as printed below:
+## Getting Answers: 
 
+1. Write this Python 3 function:
 ```python
 def flashcard(my_num):
         import requests
@@ -18,7 +21,7 @@ def flashcard(my_num):
         print(f.text)
 ```
 
-2. Call this function with your card number. For single digits don't use 0, just 1-9.
+2. Call this function by typing flashcard(1) in the shell as shown below. For single digit cards do not use 0, just 1-9.
 
 ```python
 flashcard(1)
@@ -64,6 +67,10 @@ flashcard(3)
 
 3. Scan the QR code on the card.<br><br>
 <left>![IMG](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Screen%20Shot.png?raw=true)
+<br>
+That's it.
 
-Thank you for learning Data Science with Data Wolf!
-This project is still in progress, so please check back in 2018.
+<br><br>
+
+Thank you for learning Data Science with Data Wolf!<br>
+This project is still in progress, check back in 2018.
