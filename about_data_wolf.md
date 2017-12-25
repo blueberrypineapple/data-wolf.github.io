@@ -11,7 +11,7 @@ Featured DIY option: Hand writting these flashcards onto 3X5 or 4X6 is highly re
 
 ## Getting Started:
 
-* Get paper flashcards or go to [Data Wolf Instagram](https://www.instagram.com/datawolf.us/).
+* Get paper flashcards or visit [Data Wolf Instagram](https://www.instagram.com/datawolf.us/).
 * Try to solve them!
 
 ## Getting Answers: 
