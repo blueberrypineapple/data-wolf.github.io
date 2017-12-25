@@ -17,6 +17,7 @@ Featured DIY option: Hand writting these flashcards onto 3X5 or 4X6 is highly re
 ## Getting Answers: 
 
 1. Write this Python 3 function:
+
 ```python
 def flashcard(my_num):
         import requests
@@ -67,8 +68,8 @@ flashcard(3)
     >>> my_list=a+b
     >>> print(my_list)
     This list demonstrates concatenation.
-    
-```
+
+
 3. Alternatively, you can the QR code on the card.
 That's it.
 
