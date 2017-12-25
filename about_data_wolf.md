@@ -71,7 +71,7 @@ flashcard(3)
     This list demonstrates concatenation.
     
 
-3. Alternatively, Scan the QR code on the card.<br><br>
+3. Alternatively, you can the QR code on the card.<br><br>
 <left>![IMG](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Screen%20Shot.png?raw=true)
 <br>
 That's it.
