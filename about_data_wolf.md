@@ -11,12 +11,12 @@ Featured DIY option: Hand writting these flashcards onto 3X5 or 4X6 is highly re
 
 ## Getting Started:
 
-1. Get paper flashcards or go to [Data Wolf Instagram](https://www.instagram.com/datawolf.us/).
-2. Try to solve them!
+* Get paper flashcards or go to [Data Wolf Instagram](https://www.instagram.com/datawolf.us/).
+* Try to solve them!
 
 ## Getting Answers: 
 
-1. Write this Python 3 function:
+* Write this Python 3 function:
 
 ```python
 def flashcard(my_num):
@@ -26,7 +26,7 @@ def flashcard(my_num):
         print(f.text)
 ```
 
-2. Call this function by typing flashcard(1) in the shell as shown below. For single digit cards do not use 0, just 1-9.
+* Call this function by typing flashcard(1) in the shell as shown below. For single digit cards do not use 0, just 1-9.
 
 ```python
 flashcard(1)
@@ -70,7 +70,7 @@ flashcard(3)
     This list demonstrates concatenation.
 
 
-3. Alternatively, you can the QR code on the card.
+* Alternatively, you can the QR code on the card.
 That's it.
 
 <br><br>
