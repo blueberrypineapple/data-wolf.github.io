@@ -24,9 +24,7 @@ def flashcard(my_num):
         print(f.text)
 ```
 
-2. Call this function by typing flashcard(1) in the shell as shown below. For single digit cards do not use 0. 
-
-ie. 1 NOT 01 so flashcard(1)
+2. Call this function by typing flashcard(1) in the shell as shown below. For single digit cards do not use 0, just 1-9.
 
 ```python
 flashcard(1)
