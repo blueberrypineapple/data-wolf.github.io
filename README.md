@@ -1,5 +1,5 @@
 # datawolf.us
-Data Science Flash Cards
+Data Science Flashcards
 
 ## Quickstart
 
