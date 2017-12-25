@@ -10,7 +10,8 @@ def flashcard(my_num):
         f = requests.get(link)
         print(f.text)
 ```
-Call it followd by you card number, for single digits no 0.
+
+Call it followd by your card number. For single digits don't use 0, ie. 1 NOT 01.
 
 ```python
 flashcard(1)
