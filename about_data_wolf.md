@@ -71,11 +71,12 @@ flashcard(3)
     This list demonstrates concatenation.
     
 
-3. Scan the QR code on the card.
-
+3. Scan the QR code on the card.<br><br>
+<left>![IMG](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Screen%20Shot.png?raw=true)
+<br>
 That's it.
 
+<br><br>
 
-
-Thank you for learning Data Science with Data Wolf!
+Thank you for learning Data Science with Data Wolf!<br>
 This project is still in progress, check back in 2018.
