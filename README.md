@@ -2,6 +2,7 @@
 
 ## Quickstart
 
+Write this function:
 ```python
 def flashcard(my_num):
         import requests
@@ -9,7 +10,7 @@ def flashcard(my_num):
         f = requests.get(link)
         print(f.text)
 ```
-
+Call it followd by you card number, for single digits no 0.
 
 ```python
 flashcard(1)
