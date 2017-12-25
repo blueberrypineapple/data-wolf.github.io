@@ -2,7 +2,7 @@
 
 ## Quickstart
 
-Write this function:
+Write this Python 3 function:
 ```python
 def flashcard(my_num):
         import requests
