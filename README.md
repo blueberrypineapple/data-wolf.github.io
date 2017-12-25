@@ -62,8 +62,8 @@ flashcard(3)
     This list demonstrates concatenation.
     
 
-3. Scan the QR on the card.
-![IMG](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Screen%20Shot.png?raw=true)
+3. Scan the QR on the card.<br><br>
+<left>![IMG](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Screen%20Shot.png?raw=true)
 
 Thank you for learning Data Science with Data Wolf!
 This project is still in progress, so please check back in 2018.
