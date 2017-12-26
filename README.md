@@ -1,9 +1,3 @@
----
-layout: page
-title: About Data Wolf
-subtitle: A Data Science and Machine Learning Blog
----
-
 # Data Science Flashcards
 Data Wolf presents: [Data Science Flashcards!](https://datawolf.us/2017-10-10-data-science-flashcards/) I made these while taking [UC San Diego's DSE200x](https://www.edx.org/micromasters/data-science) course on edX and working with my favorite online bootcamp, DataCamp! For DataCamp I took [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) and [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science). The paper flashcards are made from MOO busniess cards and will be for sale soon while the free version will be available on [Data Wolf's Instagram](https://www.instagram.com/datawolf.us/). If you still want to learn using paper flashcards and money is an obstacle, send me an email and I will send you a file so you can have them printed or you can print them at home, school, local library or with the help of a friend. 
 
