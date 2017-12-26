@@ -70,7 +70,7 @@ flashcard(3)
     This list demonstrates concatenation.
 
 
-* Alternatively, you can the QR code on the card.
+* Alternatively, you can scan the unique QR code on the card.
 That's it.
 
 <br><br>
