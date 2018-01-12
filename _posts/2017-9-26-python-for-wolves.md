@@ -3,7 +3,7 @@ layout: post
 title: Python for Data Wolves
 subtitle: Learn, use and re-use
 ---
-![jpg](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Optimized-Data_Wolf.jpg?raw=true)
+![jpg](https://github.com/data-wolf/data-wolf.github.io/blob/master/img/Optimized-Data_Wolf.jpg?raw=true)<br>
 Jonthan Barrios | 
 https://datawolf.us | 
 November 28th, 2017
