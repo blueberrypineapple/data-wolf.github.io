@@ -8,7 +8,7 @@ Jonthan Barrios |
 https://datawolf.us | 
 November 28th, 2017
 <br>
-[Looking of the Python for Data Science Flashcards?](https://datawolf.us/2017-10-10-data-science-flashcards/)<br><br>
+[Looking for the Python for Data Science Flashcards?](https://datawolf.us/2017-10-10-data-science-flashcards/)<br><br>
 
 # Table of contents
 1. [Introduction](#introduction)
